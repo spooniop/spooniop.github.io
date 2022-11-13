@@ -1,0 +1,58 @@
+
+html {
+
+	background-color: rgb(24, 24, 24);
+
+}
+
+body { margin: 0px auto; }
+
+#navbar {
+
+	background-color: red;
+
+
+	width: 100%;
+	height: 200px;
+
+	position: fixed;
+
+	overflow: hidden;
+
+}
+
+#navbar img {
+
+	margin-right: 15px;
+	float: left;
+
+}
+
+#navbar a {
+
+	text-decoration: none;
+
+}
+
+.btn2 {
+
+	color: whitesmoke;
+
+	text-align: right;
+	width: 100%;
+
+}
+
+#name {
+
+	color: rgb(240, 240, 240);
+
+	font: normal normal normal 20px sans-serif;
+	letter-spacing: -1px;
+
+
+	margin-left: 15px;
+	display: block;
+	margin: 2px 0 0 0;
+
+}
